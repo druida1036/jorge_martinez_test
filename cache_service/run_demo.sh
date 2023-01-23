@@ -1,0 +1,1 @@
+java -jar demo/cache-demo.jar
